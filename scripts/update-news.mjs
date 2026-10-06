@@ -109,11 +109,20 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // ---------- 3. Put it all together ----------
 async function main() {
   if (!config.newsBot) {
+    try {
+      const current = JSON.parse(await readFile(NEWS_PATH, 'utf8'));
+      if (current.topic !== config.topic) {
+        current.topic = config.topic;
+        await writeFile(NEWS_PATH, JSON.stringify(current, null, 2) + '\n');
+        console.log(`Topic changed to "${config.topic}".`);
+      }
+    } catch { /* no news.json yet */ }
     console.log('The news bot is switched off ("newsBot": false in config.json). Website will publish with the news already saved.');
     return;
   }
   let saved = { topic: config.topic, updatedAt: null, articles: [] };
   try { saved = JSON.parse(await readFile(NEWS_PATH, 'utf8')); } catch { /* first run: nothing saved yet */ }
+  saved.articles = saved.articles.filter((a) => !a.sample); // sample stories from Project 1 go away
   const savedLinks = new Set(saved.articles.map((a) => a.link));
 
   let fresh;
