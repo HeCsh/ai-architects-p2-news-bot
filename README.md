@@ -1,8 +1,8 @@
-# AI Architects · Project 1: Your site, live
+# AI Architects · Project 2: The news bot (checkpoint)
 
-**Starter template.** Learners click **Use this template > Create a new repository**, keep it Public, and get their own copy.
+Finished state of Project 2. The bot is on (`"newsBot": true`) and the timer runs every 3 hours, so real headlines arrive with nobody at the keyboard.
 
-In this project the news bot is switched off (`"newsBot": false`), so the site shows three sample stories. Learners pick a topic, design the site in Google AI Studio, and publish it on GitHub Pages.
+Known on purpose: the bot has no memory yet, so the same stories repeat after a few runs. Learners fix this in Project 4.
 
 ## How this repo works
 
