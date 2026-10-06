@@ -1,6 +1,6 @@
 {
   "topic": "Science News",
-  "newsBot": false,
+  "newsBot": true,
   "feedUrl": "https://www.snexplores.org/feed",
   "maxArticles": 12,
   "aiSummaries": false,
