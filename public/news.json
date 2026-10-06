@@ -1,9 +1,90 @@
 {
   "topic": "Science News",
-  "updatedAt": null,
+  "updatedAt": "2026-10-06T03:33:41.130Z",
   "articles": [
-    { "title": "Sample story 1: your news bot will replace this", "link": "https://www.snexplores.org/", "published": "2026-10-01T09:00:00.000Z", "snippet": "This is placeholder text. In Project 2 your bot starts filling this page with real news from your feed.", "summary": null },
-    { "title": "Sample story 2: change the design in AI Studio", "link": "https://aistudio.google.com/", "published": "2026-09-30T09:00:00.000Z", "snippet": "Ask AI Studio to restyle these cards. The words come from public/news.json, not from the design.", "summary": null },
-    { "title": "Sample story 3: this file is the website's memory", "link": "https://github.com/", "published": "2026-09-29T09:00:00.000Z", "snippet": "Open public/news.json in your repo to see exactly what the website is showing.", "summary": null }
+    {
+      "title": "2026’s El Niño is record-breaking — and it’s not done yet",
+      "link": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
+      "published": "2026-10-05T10:30:00.000Z",
+      "snippet": "Within the ocean region where El Niños form, daily sea-surface temperatures are already more extreme than at any point in recorded history.",
+      "summary": null
+    },
+    {
+      "title": "Scientists Say: Pyrolysis",
+      "link": "https://www.snexplores.org/article/scientists-say-pyrolysis-definition-pronunciation",
+      "published": "2026-10-05T10:30:00.000Z",
+      "snippet": "This oxygen-free “burning” reaction explains why charcoal can burn, but typical campfire soot cannot.",
+      "summary": null
+    },
+    {
+      "title": "Among naked mole-rats, a royal’s scent keeps the peace",
+      "link": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
+      "published": "2026-10-02T10:30:00.000Z",
+      "snippet": "The special scent made only by breeding queens keeps the commoners in her colony from fighting or reproducing.",
+      "summary": null
+    },
+    {
+      "title": "Farting fish and tooting manatees — how some animals use gas",
+      "link": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
+      "published": "2026-10-01T10:30:00.000Z",
+      "snippet": "Humans think farts are funny — but some animals rely on farts for flotation, communication and more.",
+      "summary": null
+    },
+    {
+      "title": "Burps and farts: Why the body is such a gas",
+      "link": "https://www.snexplores.org/article/burps-farts-body-gas",
+      "published": "2026-10-01T10:30:00.000Z",
+      "snippet": "People make a lot of gas, and it’s got to come out one end or the other. Understanding those farts and burps could tell us a lot about our health.",
+      "summary": null
+    },
+    {
+      "title": "Sample story 1: your news bot will replace this",
+      "link": "https://www.snexplores.org/",
+      "published": "2026-10-01T09:00:00.000Z",
+      "snippet": "This is placeholder text. In Project 2 your bot starts filling this page with real news from your feed.",
+      "summary": null
+    },
+    {
+      "title": "Analyze This: Even as Earth’s oceans warm, one spot has gone cold",
+      "link": "https://www.snexplores.org/article/cold-spot-atlantic-ocean-amoc",
+      "published": "2026-09-30T10:30:00.000Z",
+      "snippet": "A cold blob of water in the North Atlantic suggests that an important ocean current is weakening.",
+      "summary": null
+    },
+    {
+      "title": "Sample story 2: change the design in AI Studio",
+      "link": "https://aistudio.google.com/",
+      "published": "2026-09-30T09:00:00.000Z",
+      "snippet": "Ask AI Studio to restyle these cards. The words come from public/news.json, not from the design.",
+      "summary": null
+    },
+    {
+      "title": "Cuddling helps apes keep the peace",
+      "link": "https://www.snexplores.org/article/cuddling-apes-chimps-bonobos-peace",
+      "published": "2026-09-29T10:30:00.000Z",
+      "snippet": "Humans could learn from chimpanzees and bonobos. When things get tense, these apes turn to group members for hugs, touches and other physical comfort.",
+      "summary": null
+    },
+    {
+      "title": "Sample story 3: this file is the website's memory",
+      "link": "https://github.com/",
+      "published": "2026-09-29T09:00:00.000Z",
+      "snippet": "Open public/news.json in your repo to see exactly what the website is showing.",
+      "summary": null
+    },
+    {
+      "title": "Scientists Say: Paradox",
+      "link": "https://www.snexplores.org/article/scientists-say-paradox-definition-pronunciation",
+      "published": "2026-09-28T10:30:00.000Z",
+      "snippet": "When gut instinct leads you astray, paradoxes can point the right way.",
+      "summary": null
+    },
+    {
+      "title": "AI … in space!",
+      "link": "https://www.snexplores.org/article/ai-space-exploration",
+      "published": "2026-09-28T10:30:00.000Z",
+      "snippet": "In WALL-E , artificial intelligence runs an entire ship. Real-life AI, though, is too finicky and prone to mistakes to manage that.",
+      "summary": null
+    }
   ]
 }
