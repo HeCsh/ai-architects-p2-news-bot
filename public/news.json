@@ -1,6 +1,6 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-06T20:21:05.092Z",
+  "updatedAt": "2026-10-07T00:44:15.523Z",
   "articles": [
     {
       "title": "Let’s learn about origami-inspired science",
@@ -17,6 +17,27 @@
       "summary": null
     },
     {
+      "title": "Let’s learn about origami-inspired science",
+      "link": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
+      "published": "2026-10-06T10:30:00.000Z",
+      "snippet": "The Japanese art of paper folding has inspired new designs for lightweight and shapeshifting technology.",
+      "summary": null
+    },
+    {
+      "title": "2026’s El Niño is record-breaking — and it’s not done yet",
+      "link": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
+      "published": "2026-10-05T10:30:00.000Z",
+      "snippet": "Within the ocean region where El Niños form, daily sea-surface temperatures are already more extreme than at any point in recorded history.",
+      "summary": null
+    },
+    {
+      "title": "Scientists Say: Pyrolysis",
+      "link": "https://www.snexplores.org/article/scientists-say-pyrolysis-definition-pronunciation",
+      "published": "2026-10-05T10:30:00.000Z",
+      "snippet": "This oxygen-free “burning” reaction explains why charcoal can burn, but typical campfire soot cannot.",
+      "summary": null
+    },
+    {
       "title": "2026’s El Niño is record-breaking — and it’s not done yet",
       "link": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
       "published": "2026-10-05T10:30:00.000Z",
@@ -63,27 +84,6 @@
       "link": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
       "published": "2026-10-02T10:30:00.000Z",
       "snippet": "The special scent made only by breeding queens keeps the commoners in her colony from fighting or reproducing.",
-      "summary": null
-    },
-    {
-      "title": "Among naked mole-rats, a royal’s scent keeps the peace",
-      "link": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
-      "published": "2026-10-02T10:30:00.000Z",
-      "snippet": "The special scent made only by breeding queens keeps the commoners in her colony from fighting or reproducing.",
-      "summary": null
-    },
-    {
-      "title": "Among naked mole-rats, a royal’s scent keeps the peace",
-      "link": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
-      "published": "2026-10-02T10:30:00.000Z",
-      "snippet": "The special scent made only by breeding queens keeps the commoners in her colony from fighting or reproducing.",
-      "summary": null
-    },
-    {
-      "title": "Farting fish and tooting manatees — how some animals use gas",
-      "link": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
-      "published": "2026-10-01T10:30:00.000Z",
-      "snippet": "Humans think farts are funny — but some animals rely on farts for flotation, communication and more.",
       "summary": null
     }
   ]
