@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-08T10:37:26.450Z",
+  "updatedAt": "2026-10-08T18:52:08.938Z",
   "articles": [
+    {
+      "title": "These clues might point to life on other worlds",
+      "link": "https://www.snexplores.org/article/clues-life-venus-mars",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
+      "summary": null
+    },
+    {
+      "title": "Some germs ride a superhighway at the edge of space",
+      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
+      "summary": null
+    },
     {
       "title": "These clues might point to life on other worlds",
       "link": "https://www.snexplores.org/article/clues-life-venus-mars",
@@ -59,31 +73,17 @@
       "summary": null
     },
     {
-      "title": "Let’s learn about origami-inspired science",
-      "link": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
-      "published": "2026-10-06T10:30:00.000Z",
-      "snippet": "The Japanese art of paper folding has inspired new designs for lightweight and shapeshifting technology.",
+      "title": "Experiment: Discover the science behind afterimages",
+      "link": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
+      "published": "2026-10-07T10:30:00.000Z",
+      "snippet": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors.",
       "summary": null
     },
     {
-      "title": "Let’s learn about origami-inspired science",
-      "link": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
-      "published": "2026-10-06T10:30:00.000Z",
-      "snippet": "The Japanese art of paper folding has inspired new designs for lightweight and shapeshifting technology.",
-      "summary": null
-    },
-    {
-      "title": "Let’s learn about origami-inspired science",
-      "link": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
-      "published": "2026-10-06T10:30:00.000Z",
-      "snippet": "The Japanese art of paper folding has inspired new designs for lightweight and shapeshifting technology.",
-      "summary": null
-    },
-    {
-      "title": "Let’s learn about origami-inspired science",
-      "link": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
-      "published": "2026-10-06T10:30:00.000Z",
-      "snippet": "The Japanese art of paper folding has inspired new designs for lightweight and shapeshifting technology.",
+      "title": "Physicists may have finally glimpsed elusive dark matter",
+      "link": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
+      "published": "2026-10-07T10:30:00.000Z",
+      "snippet": "For decades scientists have been trying to detect this invisible substance that fills the cosmos. The LZ experiment may have finally spied it.",
       "summary": null
     }
   ]
