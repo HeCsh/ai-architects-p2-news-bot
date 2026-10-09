@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-09T10:36:27.300Z",
+  "updatedAt": "2026-10-09T18:22:12.289Z",
   "articles": [
+    {
+      "title": "Anger or fear? Dogs may be able to read it on your face",
+      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+      "published": "2026-10-09T10:30:00.000Z",
+      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
+      "summary": null
+    },
     {
       "title": "Anger or fear? Dogs may be able to read it on your face",
       "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
@@ -77,13 +84,6 @@
       "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
       "published": "2026-10-08T10:30:00.000Z",
       "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
-      "summary": null
-    },
-    {
-      "title": "Experiment: Discover the science behind afterimages",
-      "link": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
-      "published": "2026-10-07T10:30:00.000Z",
-      "snippet": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors.",
       "summary": null
     }
   ]
