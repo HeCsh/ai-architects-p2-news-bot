@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-21T17:14:25.857Z",
+  "updatedAt": "2026-10-21T21:44:25.866Z",
   "articles": [
+    {
+      "title": "Explainer: What is an equation?",
+      "link": "https://www.snexplores.org/article/what-is-math-equation",
+      "published": "2026-10-21T10:30:00.000Z",
+      "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
+      "summary": null
+    },
     {
       "title": "Explainer: What is an equation?",
       "link": "https://www.snexplores.org/article/what-is-math-equation",
@@ -77,13 +84,6 @@
       "link": "https://www.snexplores.org/article/lets-learn-about-hydrogels",
       "published": "2026-10-20T10:30:00.000Z",
       "snippet": "These polymer-based materials can sop up a lot of water — making them useful for a wide array of tasks.",
-      "summary": null
-    },
-    {
-      "title": "Sliding down surfaces can make rainwater corrosive",
-      "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
-      "published": "2026-10-20T10:30:00.000Z",
-      "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
       "summary": null
     }
   ]
