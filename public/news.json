@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-22T11:55:36.940Z",
+  "updatedAt": "2026-10-22T17:12:32.552Z",
   "articles": [
+    {
+      "title": "Circular cities go ‘green’ by reusing things over and over again",
+      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+      "published": "2026-10-22T10:30:00.000Z",
+      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
+      "summary": null
+    },
     {
       "title": "Circular cities go ‘green’ by reusing things over and over again",
       "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
@@ -38,17 +45,10 @@
       "summary": null
     },
     {
-      "title": "Sliding down surfaces can make rainwater corrosive",
-      "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
-      "published": "2026-10-20T10:30:00.000Z",
-      "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
-      "summary": null
-    },
-    {
-      "title": "Let’s learn about hydrogels",
-      "link": "https://www.snexplores.org/article/lets-learn-about-hydrogels",
-      "published": "2026-10-20T10:30:00.000Z",
-      "snippet": "These polymer-based materials can sop up a lot of water — making them useful for a wide array of tasks.",
+      "title": "Explainer: What is an equation?",
+      "link": "https://www.snexplores.org/article/what-is-math-equation",
+      "published": "2026-10-21T10:30:00.000Z",
+      "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
       "summary": null
     },
     {
