@@ -1,8 +1,29 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-04T06:25:59.057Z",
+  "updatedAt": "2026-11-04T17:16:14.180Z",
   "articles": [
     {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
+      "summary": null
+    },
+    {
+      "title": "Let’s learn about how particles act like waves",
+      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
+      "summary": null
+    },
+    {
+      "title": "Would growing a big heart make the Grinch strong?",
+      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
+      "summary": null
+    },
+    {
       "title": "Let’s learn about how particles act like waves",
       "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
       "published": "2026-11-03T11:30:00.000Z",
@@ -63,27 +84,6 @@
       "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
       "published": "2026-11-02T11:30:00.000Z",
       "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": null
-    },
-    {
-      "title": "Toys inspired this moon rover’s unique design",
-      "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
-      "summary": null
-    },
-    {
-      "title": "Scientists Say: Fibonacci sequence",
-      "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": null
-    },
-    {
-      "title": "Toys inspired this moon rover’s unique design",
-      "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
       "summary": null
     }
   ]
