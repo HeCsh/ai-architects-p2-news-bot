@@ -1,9 +1,16 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-05T06:50:19.191Z",
+  "updatedAt": "2026-11-05T17:25:25.357Z",
   "articles": [
     {
-      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "title": "Static electricity remains shockingly mysterious",
+      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+      "published": "2026-11-05T11:30:00.000Z",
+      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
+      "summary": null
+    },
+    {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
@@ -24,17 +31,10 @@
       "summary": null
     },
     {
-      "title": "Let’s learn about how particles act like waves",
-      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
-      "summary": null
-    },
-    {
-      "title": "Would growing a big heart make the Grinch strong?",
-      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": null
     },
     {
