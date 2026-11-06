@@ -1,8 +1,22 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-06T06:49:52.032Z",
+  "updatedAt": "2026-11-06T16:46:35.104Z",
   "articles": [
     {
+      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+      "published": "2026-11-06T11:30:00.000Z",
+      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
+      "summary": null
+    },
+    {
+      "title": "Static electricity remains shockingly mysterious",
+      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+      "published": "2026-11-05T11:30:00.000Z",
+      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
+      "summary": null
+    },
+    {
       "title": "Static electricity remains shockingly mysterious",
       "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
       "published": "2026-11-05T11:30:00.000Z",
@@ -45,7 +59,7 @@
       "summary": null
     },
     {
-      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
@@ -66,24 +80,10 @@
       "summary": null
     },
     {
-      "title": "Let’s learn about how particles act like waves",
-      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
-      "summary": null
-    },
-    {
-      "title": "Would growing a big heart make the Grinch strong?",
-      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
-      "summary": null
-    },
-    {
-      "title": "Let’s learn about how particles act like waves",
-      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": null
     }
   ]
