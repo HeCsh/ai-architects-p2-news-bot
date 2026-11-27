@@ -1,6 +1,6 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-27T12:24:57.801Z",
+  "updatedAt": "2026-11-27T23:28:08.796Z",
   "articles": [
     {
       "title": "Insects once had 24 legs",
@@ -38,17 +38,10 @@
       "summary": null
     },
     {
-      "title": "Meet the first new living cat species described in more than a century",
-      "link": "https://www.snexplores.org/article/new-living-cat-species",
-      "published": "2026-11-24T11:30:00.000Z",
-      "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
-      "summary": null
-    },
-    {
-      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
-      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
-      "published": "2026-11-24T11:30:00.000Z",
-      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
+      "title": "Insects once had 24 legs",
+      "link": "https://www.snexplores.org/article/insects-had-24-legs",
+      "published": "2026-11-25T11:30:00.000Z",
+      "snippet": "A many-legged creature from long ago helps fill a major gap in the fossil record — and hints at how today’s insects ended up with just six legs.",
       "summary": null
     },
     {
@@ -84,6 +77,13 @@
       "link": "https://www.snexplores.org/article/new-living-cat-species",
       "published": "2026-11-24T11:30:00.000Z",
       "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
+      "summary": null
+    },
+    {
+      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
+      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
       "summary": null
     }
   ]
